@@ -3,7 +3,19 @@
     body {
         background-color: lightblue;
     }
-    #top-nav {
-        background-color: yellow;
+    .titel {
+        background-color: black;
+
+    }
+
+    .h1_titel_h1{
+        color: white;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+
+    }
+    .topnav #myLinks {
+        display: none;
     }
 }
